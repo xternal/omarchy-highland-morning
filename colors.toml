@@ -1,0 +1,43 @@
+# Highland Morning: Pavel's light theme for sunny days, the daytime partner
+# to Brown Study. Scottish Highlands in the morning: a sage-and-lichen
+# background, pine-needle ink for text, pine green for the chrome, with
+# heather, rowan berry, bracken, gorse, loch water and peat for the colours.
+# Same contrast rules as Brown Study: body text 12.5:1 on the background
+# (never above 14:1, so it doesn't glare), every coloured text tone clears
+# 7:1 (WCAG AAA), bright tones and muted text clear 6:1. Background deepened
+# on 24 Nov 2026 from #eceee4, which felt too pale.
+mode = "light"
+
+accent = "#1f5238"
+selection = "#bdd2b2"
+selection_foreground = "#152019"
+muted = "#4a564e"
+
+background = "#dfe6d3"
+dark_background = "#d7dfca"
+darker_background = "#cfd8c0"
+lighter_background = "#d3dcc6"
+
+foreground = "#1a241e"
+dark_foreground = "#3f4c43"
+light_foreground = "#28342c"
+bright_foreground = "#152019"
+
+red = "#82261c"
+yellow = "#554205"
+orange = "#743510"
+green = "#1f5229"
+cyan = "#114f4f"
+blue = "#21446d"
+magenta = "#66295e"
+brown = "#55381f"
+
+bright_red = "#8f2e23"
+bright_yellow = "#604b08"
+bright_green = "#275b31"
+bright_cyan = "#175858"
+bright_blue = "#284d7a"
+bright_magenta = "#713469"
+
+hyprland_active_border = "rgba(1f5238ee) rgba(7a4a86dd) 45deg"
+hyprland_inactive_border = "rgba(a3b19caa)"
